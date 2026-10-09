@@ -1,0 +1,7 @@
+# System and temporary files
+.DS_Store
+Thumbs.db
+*.log
+
+# Sensitive configuration (optional if using sample file)
+# config/db.php
